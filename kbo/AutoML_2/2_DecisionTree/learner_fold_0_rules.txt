@@ -1,0 +1,16 @@
+if (승률 <= 0.497) and (승률 > 0.41) and (승률 <= 0.462) then response: 0.448 | based on 11 samples
+
+if (승률 > 0.497) and (승률 <= 0.569) and (승률 > 0.531) then response: 0.548 | based on 10 samples
+
+if (승률 <= 0.497) and (승률 > 0.41) and (승률 > 0.462) then response: 0.481 | based on 8 samples
+
+if (승률 > 0.497) and (승률 > 0.569) and (RC27 <= 2.141) then response: 0.596 | based on 6 samples
+
+if (승률 > 0.497) and (승률 <= 0.569) and (승률 <= 0.531) then response: 0.515 | based on 5 samples
+
+if (승률 <= 0.497) and (승률 <= 0.41) and (승률 > 0.351) then response: 0.378 | based on 4 samples
+
+if (승률 <= 0.497) and (승률 <= 0.41) and (승률 <= 0.351) then response: 0.331 | based on 3 samples
+
+if (승률 > 0.497) and (승률 > 0.569) and (RC27 > 2.141) then response: 0.646 | based on 1 samples
+

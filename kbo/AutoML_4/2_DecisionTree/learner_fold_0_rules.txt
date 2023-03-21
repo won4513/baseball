@@ -1,0 +1,16 @@
+if (ERA+ <= -0.085) and (wRC+ > -1.11) and (투수WAR > -1.465) then response: 0.458 | based on 13 samples
+
+if (ERA+ > -0.085) and (타자WAR <= 0.912) and (ERA+ > 0.449) then response: 0.548 | based on 12 samples
+
+if (ERA+ > -0.085) and (타자WAR <= 0.912) and (ERA+ <= 0.449) then response: 0.493 | based on 8 samples
+
+if (ERA+ > -0.085) and (타자WAR > 0.912) and (RC27 <= 2.213) then response: 0.584 | based on 6 samples
+
+if (ERA+ <= -0.085) and (wRC+ <= -1.11) and (wOBA > -1.383) then response: 0.377 | based on 3 samples
+
+if (ERA+ <= -0.085) and (wRC+ <= -1.11) and (wOBA <= -1.383) then response: 0.331 | based on 3 samples
+
+if (ERA+ <= -0.085) and (wRC+ > -1.11) and (투수WAR <= -1.465) then response: 0.399 | based on 2 samples
+
+if (ERA+ > -0.085) and (타자WAR > 0.912) and (RC27 > 2.213) then response: 0.646 | based on 1 samples
+
