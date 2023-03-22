@@ -1,0 +1,16 @@
+if (UC타율 <= 0.978) and (UC피안타율 <= 1.115) and (UC피홈런 > -0.845) then response: 0.464 | based on 27 samples
+
+if (UC타율 > 0.978) and (UC홈런 > -1.163) and (UC피안타율 > -1.957) then response: 0.539 | based on 9 samples
+
+if (UC타율 <= 0.978) and (UC피안타율 <= 1.115) and (UC피홈런 <= -0.845) then response: 0.522 | based on 8 samples
+
+if (UC타율 <= 0.978) and (UC피안타율 > 1.115) and (UC타율 <= -0.268) then response: 0.375 | based on 6 samples
+
+if (UC타율 <= 0.978) and (UC피안타율 > 1.115) and (UC타율 > -0.268) then response: 0.438 | based on 3 samples
+
+if (UC타율 > 0.978) and (UC홈런 > -1.163) and (UC피안타율 <= -1.957) then response: 0.633 | based on 2 samples
+
+if (UC타율 > 0.978) and (UC홈런 <= -1.163) and (UC피안타율 > 1.009) then response: 0.441 | based on 1 samples
+
+if (UC타율 > 0.978) and (UC홈런 <= -1.163) and (UC피안타율 <= 1.009) then response: 0.442 | based on 1 samples
+

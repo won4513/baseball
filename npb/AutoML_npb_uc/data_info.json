@@ -1,0 +1,22 @@
+{
+    "columns": [
+        "UC\ud0c0\uc728",
+        "UC\ud53c\uc548\ud0c0\uc728",
+        "UC\ud53c\ud648\ub7f0",
+        "UC\ud648\ub7f0"
+    ],
+    "rows": 76,
+    "cols": 4,
+    "target_is_numeric": true,
+    "columns_info": {
+        "UC\ud0c0\uc728": [],
+        "UC\ud53c\uc548\ud0c0\uc728": [],
+        "UC\ud53c\ud648\ub7f0": [],
+        "UC\ud648\ub7f0": []
+    },
+    "target_info": [
+        "scale_log"
+    ],
+    "n_features": 4,
+    "is_sample_weighted": false
+}
