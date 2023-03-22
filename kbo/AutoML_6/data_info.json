@@ -1,0 +1,36 @@
+{
+    "columns": [
+        "BWAR",
+        "BWPA",
+        "ERA",
+        "FIP",
+        "GPA",
+        "PWAR",
+        "PWPA",
+        "RC27",
+        "WHIP",
+        "XR27",
+        "wOBA",
+        "wRC+"
+    ],
+    "rows": 64,
+    "cols": 12,
+    "target_is_numeric": true,
+    "columns_info": {
+        "BWAR": [],
+        "BWPA": [],
+        "ERA": [],
+        "FIP": [],
+        "GPA": [],
+        "PWAR": [],
+        "PWPA": [],
+        "RC27": [],
+        "WHIP": [],
+        "XR27": [],
+        "wOBA": [],
+        "wRC+": []
+    },
+    "target_info": [],
+    "n_features": 12,
+    "is_sample_weighted": false
+}

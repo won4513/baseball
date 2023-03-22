@@ -1,0 +1,16 @@
+if (PWAR > -0.311) and (BWAR <= 0.912) and (PWPA <= 1.607) then response: 0.515 | based on 18 samples
+
+if (PWAR <= -0.311) and (wRC+ > -1.11) and (PWAR > -1.465) then response: 0.458 | based on 12 samples
+
+if (PWAR > -0.311) and (BWAR > 0.912) and (BWAR <= 2.069) then response: 0.584 | based on 6 samples
+
+if (PWAR > -0.311) and (BWAR <= 0.912) and (PWPA > 1.607) then response: 0.574 | based on 3 samples
+
+if (PWAR <= -0.311) and (wRC+ <= -1.11) and (GPA > -1.646) then response: 0.377 | based on 3 samples
+
+if (PWAR <= -0.311) and (wRC+ <= -1.11) and (GPA <= -1.646) then response: 0.331 | based on 3 samples
+
+if (PWAR <= -0.311) and (wRC+ > -1.11) and (PWAR <= -1.465) then response: 0.399 | based on 2 samples
+
+if (PWAR > -0.311) and (BWAR > 0.912) and (BWAR > 2.069) then response: 0.646 | based on 1 samples
+
