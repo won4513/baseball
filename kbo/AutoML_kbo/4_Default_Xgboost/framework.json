@@ -1,5 +1,5 @@
 {
-    "uid": "8ed0d39b-9b60-4854-a334-3252c62d6550",
+    "uid": "32fbfd24-531f-40c6-8a86-96b84199ec9e",
     "name": "4_Default_Xgboost",
     "preprocessing": [
         {
@@ -18,7 +18,7 @@
             "library_version": "1.7.4",
             "algorithm_name": "Extreme Gradient Boosting",
             "algorithm_short_name": "Xgboost",
-            "uid": "3c862ce0-c6e5-4849-ab99-3c302ad28478",
+            "uid": "5f50a0e1-e105-45b6-a054-d5b7dac3eb2f",
             "params": {
                 "model_type": "Xgboost",
                 "ml_task": "regression",
@@ -55,9 +55,9 @@
             "validation_type": "split",
             "train_ratio": 0.75,
             "shuffle": true,
-            "X_path": "AutoML_6\\X.data",
-            "y_path": "AutoML_6\\y.data",
-            "results_path": "AutoML_6"
+            "X_path": "AutoML_1\\X.data",
+            "y_path": "AutoML_1\\y.data",
+            "results_path": "AutoML_1"
         },
         "learner": {
             "model_type": "Xgboost",
@@ -89,6 +89,6 @@
     "predictions_fname": "4_Default_Xgboost\\predictions_validation.csv",
     "metric_name": "rmse",
     "final_loss": 0.04238417728610578,
-    "train_time": 1.279620885848999,
+    "train_time": 1.5076735019683838,
     "is_stacked": false
 }

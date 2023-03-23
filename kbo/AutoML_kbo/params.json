@@ -1,7 +1,7 @@
 {
     "mode": "Explain",
     "ml_task": "regression",
-    "results_path": "AutoML_6",
+    "results_path": "AutoML_1",
     "total_time_limit": 3600,
     "model_time_limit": null,
     "algorithms": [
@@ -19,9 +19,9 @@
         "validation_type": "split",
         "train_ratio": 0.75,
         "shuffle": true,
-        "X_path": "AutoML_6\\X.data",
-        "y_path": "AutoML_6\\y.data",
-        "results_path": "AutoML_6"
+        "X_path": "AutoML_1\\X.data",
+        "y_path": "AutoML_1\\y.data",
+        "results_path": "AutoML_1"
     },
     "verbose": 1,
     "explain_level": 2,

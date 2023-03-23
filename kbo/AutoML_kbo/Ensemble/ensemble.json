@@ -11,6 +11,6 @@
     "predictions_fname": "Ensemble\\predictions_ensemble.csv",
     "metric_name": "rmse",
     "final_loss": 0.00997974646658899,
-    "train_time": 0.133009672164917,
+    "train_time": 0.14400911331176758,
     "is_stacked": false
 }
