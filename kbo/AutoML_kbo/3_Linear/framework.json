@@ -1,5 +1,5 @@
 {
-    "uid": "88200add-8e21-431f-8a2d-7c35b0afaf49",
+    "uid": "d5f18f08-0ef4-4656-92df-3b0868eddd89",
     "name": "3_Linear",
     "preprocessing": [
         {
@@ -18,7 +18,7 @@
             "library_version": "1.0.2",
             "algorithm_name": "Linear Regression",
             "algorithm_short_name": "Linear",
-            "uid": "fa3881a3-e8b6-4400-b6aa-f4768f2b7bc5",
+            "uid": "314742ab-1942-40b9-8cb9-6d7e26da205a",
             "params": {
                 "model_type": "Linear",
                 "ml_task": "regression",
@@ -73,6 +73,6 @@
     "predictions_fname": "3_Linear\\predictions_validation.csv",
     "metric_name": "rmse",
     "final_loss": 0.009979746466588996,
-    "train_time": 5.895633697509766,
+    "train_time": 5.546702861785889,
     "is_stacked": false
 }
